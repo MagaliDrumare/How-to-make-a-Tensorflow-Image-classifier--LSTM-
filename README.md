@@ -1,6 +1,6 @@
 # A voir et à savoir : 
 
-#### Le LSTM est un réseau de neurones récurrents (RNN) qui permet de surmonter le problème du "vanishing" gradient descent soit la phase d'entraînement du réseau de neurone. Le LSTM est un RNN qui a de la mémoire! 
+#### Le LSTM est un réseau de neurones récurrents (RNN) qui permet de surmonter le problème du "vanishing" gradient dans la phase d'entraînement du réseau de neurone. Le LSTM est un RNN qui a de la mémoire! 
 
 * Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM): 
 * A friendly introduction to Recurrent Neural Networks: https://youtu.be/UNmqTiOnRfg
