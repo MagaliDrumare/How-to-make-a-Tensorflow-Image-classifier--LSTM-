@@ -11,7 +11,7 @@
 
 #### LSTM Modèle 
 
-```
+```python
 def RNN(x, weights, biases):
 
     # Prepare data shape to match `rnn` function requirements
